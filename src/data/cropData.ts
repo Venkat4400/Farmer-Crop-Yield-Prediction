@@ -408,7 +408,7 @@ export const crops: CropInfo[] = [
     yieldRange: "70,000-100,000 kg/ha",
     regions: ["North India", "South India", "West India"],
     description: "Sugarcane needs lots of water and takes one year to mature. Very profitable.",
-    image: "../public/images/sugercan.png",
+    image: "public/images/sugercan.png",
     fertilizers: {
       organic: ["Farm Yard Manure", "Press Mud", "Compost"],
       chemical: [

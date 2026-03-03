@@ -33,22 +33,8 @@ const App = () => (
                 <Routes>
                   <Route path="/" element={<Dashboard />} />
                   <Route path="/auth" element={<Auth />} />
-                  <Route
-                    path="/predict"
-                    element={
-                      <ProtectedRoute>
-                        <PredictYield />
-                      </ProtectedRoute>
-                    }
-                  />
-                  <Route
-                    path="/history"
-                    element={
-                      <ProtectedRoute>
-                        <History />
-                      </ProtectedRoute>
-                    }
-                  />
+                  <Route path="/predict" element={<PredictYield />} />
+                  <Route path="/history" element={<History />} />
                   <Route path="/weather" element={<Weather />} />
                   <Route path="/recommendations" element={<Recommendations />} />
                   <Route path="/admin/import" element={<DataImport />} />

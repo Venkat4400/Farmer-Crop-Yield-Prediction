@@ -1,3 +1,4 @@
+-- Supabase PostgreSQL Migration
 -- Create crop_yield_data table to store comprehensive crop yield dataset
 CREATE TABLE public.crop_yield_data (
   id UUID NOT NULL DEFAULT gen_random_uuid() PRIMARY KEY,

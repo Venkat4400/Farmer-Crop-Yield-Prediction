@@ -1,0 +1,5 @@
+supabase/migrations/
+node_modules/
+build/
+dist/
+.venv/

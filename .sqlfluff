@@ -1,0 +1,16 @@
+[core]
+dialect = postgres
+sql_file_exts = .sql
+max_line_length = 120
+
+[indentation]
+indent_unit = space
+indent_size = 2
+
+[layout:type:start_bracket]
+spacing_before = touch
+spacing_after = touch
+
+[layout:type:end_bracket]
+spacing_before = touch
+spacing_after = touch

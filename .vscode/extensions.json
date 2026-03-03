@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "bradymholt.pgformatter",
+    "inferrinizzard.prettier-sql-vscode",
+    "ckolkman.vscode-postgres"
+  ]
+}
+
