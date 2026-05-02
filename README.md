@@ -134,10 +134,6 @@ CropYieldPrediction/
 ✔ Improves productivity
 ✔ Supports sustainable agriculture
 
-<img width="1899" height="924" alt="Screenshot 2026-01-29 121632" src="https://github.com/user-attachments/assets/41d80c9d-596f-4b94-856b-c9f2e4d04787" />
-<img width="1899" height="914" alt="Screenshot 2026-02-18 193911" src="https://github.com/user-attachments/assets/76accef1-352d-42be-9171-5f1a66fee829" />
-
-
 ---
 
 
@@ -146,6 +142,6 @@ CropYieldPrediction/
 
 **Venkat Kota**
 AI & Web Developer
-GitHub: [https://github.com/Venkat4400]:farmercropprediction.vercel.app
+GitHub: [https://github.com/Venkat4400]:newfcp.vercel.app
 
 
